@@ -3,7 +3,7 @@
 
 ### Spring Streaming Video ###
 
-REST API web-приложение для стриминга видео
+REST API web-приложение для просмотра видео
 
 ### Использование ###
 http://localhost:8080/play - для запуска видео
