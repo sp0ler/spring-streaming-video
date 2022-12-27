@@ -10,7 +10,6 @@ public class ApplicationConstants {
     public static final String CONTENT_RANGE = "Content-Range";
     public static final String ACCEPT_RANGES = "Accept-Ranges";
     public static final String BYTES = "bytes";
-    public static final int CHUNK_SIZE = 5147000;
     public static final HttpStatus HTTP_STATUS = HttpStatus.PARTIAL_CONTENT;
 
     private ApplicationConstants() {
